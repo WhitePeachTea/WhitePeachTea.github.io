@@ -1,19 +1,20 @@
-  a:link {
+  #rainbow:link {
     color: azure;
   }
   
-  a:visited {
+  #rainbow:visited {
     color: azure;
   }
   
-  a:hover {
+  #rainbow:hover {
     color: #555555;
   }
 
-  a:active {
+  #rainbow:active {
     color: #eeeeee;
   }
-.btn.btn-primary {
+
+  .btn.btn-primary {
     position: relative;
     background-color: azure;
     border-color: azure;
