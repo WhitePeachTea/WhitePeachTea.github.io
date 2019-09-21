@@ -1,0 +1,37 @@
+  a:link {
+    color: azure;
+  }
+  
+  a:visited {
+    color: azure;
+  }
+  
+  a:hover {
+    color: #555555;
+  }
+
+  a:active {
+    color: #eeeeee;
+  }
+.btn.btn-primary {
+    position: relative;
+    background-color: azure;
+    border-color: azure;
+    color: #eeeeee;
+    margin: 340px 0 0;
+}
+
+.navbar.navbar-light.bg-light {
+    position: fixed;
+    margin: 0 30px 30px;
+
+}
+
+.btn.btn-outline-warning {
+    position: relative;
+    margin: 340px 0 0;
+}
+
+.jumbotron{
+    margin: 10px 10px 0;
+}
